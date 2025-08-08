@@ -16,7 +16,7 @@
 
 ## 📜 Project Abstract
 
-This project provides a comprehensive operational analysis of **SPACE TREE Pvt. Ltd.**, a Gurgaon-based sanitation products retailer. Faced with significant inefficiencies, the company struggled with a critical **inventory paradox**: frequent stockouts of high-demand products coexisting with over ₹2.8L in excess slow-moving stock. This analysis uses sales, purchase, and inventory data from a six-month period to diagnose root causes—such as high supplier lead time variability and misalignment with market seasonality—and prescribes a data-driven framework to enhance operational efficiency, reduce costs, and improve market responsiveness.
+This project provides a comprehensive operational analysis of **SPACE TREE Pvt. Ltd.**, a Gurgaon-based retail firm. Faced with significant inefficiencies, the company struggled with a critical **inventory paradox**: frequent stockouts of high-demand products coexisting with over ₹2.8L in excess slow-moving stock. This analysis uses sales, purchase, and inventory data from a six-month period to diagnose root causes—such as high supplier lead time variability and misalignment with market seasonality—and prescribes a data-driven framework to enhance operational efficiency, reduce costs, and improve market responsiveness.
 
 ---
 
